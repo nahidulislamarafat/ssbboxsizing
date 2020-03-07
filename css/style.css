@@ -1,0 +1,26 @@
+*{
+	margin: 0;
+}
+
+body{
+	
+}
+
+.container{
+	width: 1000px;
+	margin: auto;
+	
+
+}
+
+.content{
+	width: 33.33%;
+	float: left;
+	padding: 10px;
+	box-sizing: border-box;
+}
+
+.red{
+	background-color: #f7f7f7;
+	padding: 20px;
+}
